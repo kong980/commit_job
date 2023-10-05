@@ -1,0 +1,26 @@
+.main-wrap{
+  display: grid;
+  background-color: beige;
+  width: 100px;
+  height: 300px;
+}
+
+.main-wrap .sidebar-wrap{
+  background-color: lightblue;
+  width: 30%;
+  height: 100%;
+}
+
+.main-wrap .user-text{
+  background-color: lightcoral;
+  width: 70%;
+  height: 30%%;
+}
+
+.main-wrap .user-info{
+  background-color: lightgreen;
+}
+
+.main-wrap .user-rename{
+  background-color: lightslategray;
+}

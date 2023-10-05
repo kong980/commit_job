@@ -1,0 +1,5 @@
+/* 페이징 */
+.pagination-wrap .pagination-nav{
+  width:fit-content;
+  margin: 30px auto;
+}
